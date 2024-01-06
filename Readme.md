@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TFKOrig currently a student.
 - 👀 I’m interested in programming,graphics designing.
-- 🌱 I’m currently learning C,C++,Java,Python,blender.
+- 🌱 I’m currently learning C,C++,Java,Python,Blender.
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me bhatkhans7@gmail.com
 
