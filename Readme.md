@@ -44,17 +44,19 @@
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/_-lightpurple?style=for-the-badge&logo=css3&logoColor=%1572B6&logoSize=auto&label=CSS&labelColor=black&color=black">
+   <img alt="Static Badge" src="https://img.shields.io/badge/_-lightpurple?style=for-the-badge&logo=css3&logoColor=%231572B6&logoSize=auto&label=CSS&labelColor=black&color=black">
   </a> 
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Static Badge" src="https://img.shields.io/badge/_-lightpurple?style=for-the-badge&logo=bootstrap&logoColor=%235c457e&logoSize=auto&label=Bootstrap&labelColor=black&color=black">
+    <img alt="Static Badge" src="https://img.shields.io/badge/_-lightpurple?style=for-the-badge&logo=bootstrap&logoColor=%237952B3&logoSize=auto&label=HTML&labelColor=black&color=black">
   </a>
 &emsp;
 	<a href="https://react.dev/" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=React&logoColor=seablue&logoSize=auto&label=React&labelColor=black&color=black&link=https%3A%2F%2Freact.dev%2F">
+<img alt="Static Badge" src="https://img.shields.io/badge/_-lightpurple?style=for-the-badge&logo=react&logoColor=%2361DAFB&logoSize=auto&label=REACT&labelColor=black&color=black">
 	</a>
-
+&emsp;
+	<a href="https://tailwindcss.com/" target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/_-lightpurple?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&logoSize=auto&label=TailWindCSS&labelColor=black&color=black">	</a>
 </p>
 
 ### 👉 Databases & Cloud Hosting
