@@ -60,7 +60,7 @@
 </p>
 &emsp;
 	<a href="https://nextjs.org/" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/_-lightpurple?style=for-the-badge&logo=nextdotjs&logoColor=%23000000&logoSize=auto&label=Next.js&labelColor=black&color=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/_-lightpurple?style=for-the-badge&logo=nextdotjs&logoColor=%23000000&logoSize=auto&label=Next.js&labelColor=white&color=white">
 </p>
  &emsp;
 <a href="https://mui.com/">
