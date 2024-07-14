@@ -40,15 +40,15 @@
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+   <img alt="Static Badge" src="https://img.shields.io/badge/_-lightpurple?style=for-the-badge&logo=html5&logoColor=%23E34F26&logoSize=auto&label=HTML&labelColor=black&color=black">
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/_-lightpurple?style=for-the-badge&logo=css3&logoColor=%1572B6&logoSize=auto&label=CSS&labelColor=black&color=black">
   </a> 
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+    <img alt="Static Badge" src="https://img.shields.io/badge/_-lightpurple?style=for-the-badge&logo=bootstrap&logoColor=%235c457e&logoSize=auto&label=Bootstrap&labelColor=black&color=black">
   </a>
 &emsp;
 	<a href="https://react.dev/" target="_blank">
