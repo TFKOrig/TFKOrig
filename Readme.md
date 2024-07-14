@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="TFK" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TFKOrig&theme=outrun&border_radius=12&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&card_height=210" alt="GitHub Streak" /></a>
 
 
 ## 🛠️ My Skills
