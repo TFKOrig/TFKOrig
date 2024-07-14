@@ -57,11 +57,11 @@
 &emsp;
 	<a href="https://tailwindcss.com/" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/_-lightpurple?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&logoSize=auto&label=TailWindCSS&labelColor=black&color=black">	</a>
-</p>
+</a>
 &emsp;
 	<a href="https://nextjs.org/" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/_-lightpurple?style=for-the-badge&logo=nextdotjs&logoColor=%23000000&logoSize=auto&label=Next.js&labelColor=white&color=white">
-</p>
+	</a>
  &emsp;
 <a href="https://mui.com/">
 <img alt="Static Badge" src="https://img.shields.io/badge/_-lightpurple?style=for-the-badge&logo=mui&logoColor=%23007FFF&logoSize=auto&label=Mui&labelColor=black&color=black">
