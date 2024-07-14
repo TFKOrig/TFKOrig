@@ -40,23 +40,23 @@
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="Static Badge" src="https://img.shields.io/badge/_-lightpurple?style=for-the-badge&logo=html5&logoColor=%23E34F26&logoSize=auto&label=HTML&labelColor=black&color=black">
+   <img alt="Static Badge" src="https://img.shields.io/badge/_-lightpurple?style=for-the-badge&logo=html5&logoColor=%23E34F26&logoSize=auto&label=HTML&labelColor=white&color=white">
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-   <img alt="Static Badge" src="https://img.shields.io/badge/_-lightpurple?style=for-the-badge&logo=css3&logoColor=%231572B6&logoSize=auto&label=CSS&labelColor=black&color=black">
+   <img alt="Static Badge" src="https://img.shields.io/badge/_-lightpurple?style=for-the-badge&logo=css3&logoColor=%231572B6&logoSize=auto&label=CSS&labelColor=white&color=white">
   </a> 
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Static Badge" src="https://img.shields.io/badge/_-lightpurple?style=for-the-badge&logo=bootstrap&logoColor=%237952B3&logoSize=auto&label=HTML&labelColor=black&color=black">
+    <img alt="Static Badge" src="https://img.shields.io/badge/_-lightpurple?style=for-the-badge&logo=bootstrap&logoColor=%237952B3&logoSize=auto&label=HTML&labelColor=white&color=white">
   </a>
 &emsp;
 	<a href="https://react.dev/" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/_-lightpurple?style=for-the-badge&logo=react&logoColor=%2361DAFB&logoSize=auto&label=REACT&labelColor=black&color=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/_-lightpurple?style=for-the-badge&logo=react&logoColor=%2361DAFB&logoSize=auto&label=REACT&labelColor=white&color=white">
 	</a>
 &emsp;
 	<a href="https://tailwindcss.com/" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/_-lightpurple?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&logoSize=auto&label=TailWindCSS&labelColor=black&color=black">	</a>
+<img alt="Static Badge" src="https://img.shields.io/badge/_-lightpurple?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&logoSize=auto&label=TailWindCSS&labelColor=white&color=white">	</a>
 </p>
 &emsp;
 	<a href="https://nextjs.org/" target="_blank">
@@ -64,7 +64,7 @@
 </p>
 
 <a href="https://mui.com/">
-<img alt="Static Badge" src="https://img.shields.io/badge/_-lightpurple?style=for-the-badge&logo=mui&logoColor=%23007FFF&logoSize=auto&label=Mui&labelColor=black&color=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/_-lightpurple?style=for-the-badge&logo=mui&logoColor=%23007FFF&logoSize=auto&label=Mui&labelColor=white&color=white">
 </a>
 
 ### 👉 Databases & Cloud Hosting
