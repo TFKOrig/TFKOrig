@@ -160,6 +160,8 @@
 
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api?username=TFKOrig&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="TFKOrig's GitHub Stats" />
+   &nbsp;
+   	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TFKOrig&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="TFKOrig's GitHub Stats" />
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
