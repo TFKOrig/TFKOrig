@@ -105,7 +105,7 @@
 ></a>
   &emsp;
     <a href="https://www.netlify.com/"><img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=netlify&logoColor=%2300C7B7&logoSize=auto&label=netlify&labelColor=black&color=black">
-</a>  
+</a>
   &emsp;
     <a href="https://firebase.google.com/"><img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=firebase&logoColor=%23DD2C00&logoSize=auto&label=firebase&labelColor=black&color=black">
 </a>
