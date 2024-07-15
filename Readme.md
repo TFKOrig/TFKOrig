@@ -110,26 +110,25 @@
  
 <p>
   &emsp;
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=black"></a>
+    <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=adobe&logoColor=%23FF0000&logoSize=auto&label=adobe&labelColor=black&color=black"></a>
   &emsp;
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=black"></a>
+    <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=git&logoColor=%23F05032&logoSize=auto&label=git&labelColor=black&color=black"></a>
   &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=black"></a>
+    <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=linux&logoColor=%23FCC624&logoSize=auto&label=linux&labelColor=black&color=black"></a>
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=black"></a>
+    <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=googlesheets&logoColor=%2334A853&logoSize=auto&label=google%20sheets&labelColor=black&color=black"></a>
   &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
+    <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logoColor=%2334A853&logoSize=auto&label=Visual%20Studio%20Code&labelColor=black&color=black"></a>
   &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=black"></a>
+    <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=jupyter&logoColor=%23F37626&logoSize=auto&label=jupyter&labelColor=black&color=black"></a>
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=black"></a>
-  &emsp;
+    <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=stackoverflow&logoColor=%23F58025&logoSize=auto&label=stackoverflow&labelColor=black&color=black"></a>
+ &emsp;
+    <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=cisco&logoColor=%231BA0D7&logoSize=auto&label=cisco%20packet%20tracer&labelColor=black&color=black"></a>
+&emsp;
+    <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=intellijidea&logoColor=white&logoSize=auto&label=intellijidea&labelColor=black&color=black"></a>
 </p>
-
+&emsp;
 <br/>
 
 ## 📊 Github Stats (Expand to View) 
