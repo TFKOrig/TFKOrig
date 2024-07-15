@@ -41,6 +41,9 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=typescript&logoColor=%233178C6&logoSize=auto&label=typescript&labelColor=black&color=black">
   </a>
   &emsp;
+	<a href="https://expressjs.com/">
+<img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=express&logoColor=white&logoSize=auto&label=express&labelColor=black&color=black">
+  </a>
 </p>
 
 ### 👉 Frontend Development
@@ -73,7 +76,10 @@
 <a href="https://mui.com/">
 <img alt="Static Badge" src="https://img.shields.io/badge/_-lightpurple?style=for-the-badge&logo=mui&logoColor=%23007FFF&logoSize=auto&label=Mui&labelColor=black&color=black">
 </a>
-
+&emsp;
+	<a href="https://wordpress.com/">
+<img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=wordpress&logoColor=%2321759B&logoSize=auto&label=wordpress&labelColor=black&color=black">
+  </a>
 ### 👉 Backend Development
  &emsp;
 <a href="https://nodejs.org/en">
