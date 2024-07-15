@@ -85,7 +85,7 @@
     <a href="https://firebase.google.com/"><img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=firebase&logoColor=%23DD2C00&logoSize=auto&label=firebase&labelColor=black&color=black">
 </a>
 	
-&emsp
+&emsp;
 	
 <a href="" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=vercel&logoColor=white&logoSize=auto&label=vercel&labelColor=black&color=black">
 </a>
