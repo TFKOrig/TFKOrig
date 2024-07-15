@@ -101,8 +101,7 @@
     <a href="https://www.mongodb.com/"><img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=mongodb&logoColor=%2347A248&logoSize=auto&label=mongodb&labelColor=black&color=black">
 </a>
   &emsp;
-    <a href="https://www.github.com"><img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=githubpages&logoColor=white&logoSize=auto&labelColor=black&color=black">
-></a>
+    <a href="https://www.github.com"><img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=githubpages&logoColor=white&logoSize=auto&labelColor=black&color=black"> </a>
   &emsp;
     <a href="https://www.netlify.com/"><img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=netlify&logoColor=%2300C7B7&logoSize=auto&label=netlify&labelColor=black&color=black">
 </a>
