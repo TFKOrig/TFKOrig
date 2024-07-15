@@ -32,7 +32,7 @@
   </a>
   &emsp;
   <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=black"/>
+    <img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=php&logoColor=%23777BB4&logoSize=auto&label=PHP&labelColor=black&color=black">
   </a>
 </p>
 
