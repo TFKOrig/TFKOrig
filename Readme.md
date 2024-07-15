@@ -16,19 +16,20 @@
 <p align="left"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=black">
+    <img alt="C" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=c&logoColor=%23A8B9CC&logoSize=auto&label=C&labelColor=black&color=black">
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+     <img alt="JavaScript" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&logoSize=auto&label=javascript&labelColor=black&color=black">
    </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=black">
+    <img alt="Java" src="https://img.shields.io/badge/_-black?style=for-the-badge&logoColor=%23F7DF1E&logoSize=auto&label=JAVA&labelColor=black&color=black">
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=black">
+    <img alt="Python" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=python&logoColor=%233776AB&logoSize=auto&label=Python&labelColor=black&color=black
+">
   </a>
   &emsp;
   <a href="https://www.php.net/">
