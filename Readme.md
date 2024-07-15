@@ -61,7 +61,6 @@
 &emsp;
 	<a href="https://nextjs.org/" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=nextdotjs&logoColor=white&logoSize=auto&label=next.js&labelColor=black&color=black">
-
 	</a>
  &emsp;
 <a href="https://mui.com/">
