@@ -34,6 +34,11 @@
   <a href="https://www.php.net/">
     <img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=php&logoColor=%23777BB4&logoSize=auto&label=PHP&labelColor=black&color=black">
   </a>
+  &emsp;
+  <a href="https://www.typescriptlang.org/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=typescript&logoColor=%233178C6&logoSize=auto&label=typescript&labelColor=black&color=black">
+  </a>
+  &emsp;
 </p>
 
 ### 👉 Frontend Development
@@ -65,6 +70,16 @@
  &emsp;
 <a href="https://mui.com/">
 <img alt="Static Badge" src="https://img.shields.io/badge/_-lightpurple?style=for-the-badge&logo=mui&logoColor=%23007FFF&logoSize=auto&label=Mui&labelColor=black&color=black">
+</a>
+
+### 👉 Backend Development
+ &emsp;
+<a href="https://nodejs.org/en">
+<img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&logoSize=auto&label=node.js&labelColor=black&color=black">
+</a>
+ &emsp;
+<a href="https://nestjs.com/">
+<img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=nestjs&logoColor=%23E0234E&logoSize=auto&label=nestjs&labelColor=black&color=black">
 </a>
 
 ### 👉 Databases & Cloud Hosting
