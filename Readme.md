@@ -8,7 +8,7 @@
 ## 🔥 Streak Stats
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TFKOrig&theme=outrun&border_radius=12&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&card_height=210" alt="GitHub Streak" /></a>
 
-
+/
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -60,7 +60,8 @@
 </a>
 &emsp;
 	<a href="https://nextjs.org/" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/_-lightpurple?style=for-the-badge&logo=nextdotjs&logoColor=%23000000&logoSize=auto&label=Next.js&labelColor=white&color=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=nextdotjs&logoColor=white&logoSize=auto&label=next.js&labelColor=black&color=black">
+
 	</a>
  &emsp;
 <a href="https://mui.com/">
@@ -70,22 +71,25 @@
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=black"></a>
+    <a href="https://www.mysql.com/"><img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=mysql&logoColor=%234479A1&logoSize=auto&label=MYSQL&labelColor=black&color=black">
+</a>
   &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=black"/></a>
+    <a href="https://www.mongodb.com/"><img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=mongodb&logoColor=%2347A248&logoSize=auto&label=mongodb&labelColor=black&color=black">
+</a>
   &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=black"></a>
+    <a href="https://www.github.com"><img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=githubpages&logoColor=white&logoSize=auto&labelColor=black&color=black">
+></a>
   &emsp;
-    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=black"></a>  
+    <a href="https://www.netlify.com/"><img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=netlify&logoColor=%2300C7B7&logoSize=auto&label=netlify&labelColor=black&color=black">
+</a>  
   &emsp;
-    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=black"></a>
+    <a href="https://firebase.google.com/"><img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=firebase&logoColor=%23DD2C00&logoSize=auto&label=firebase&labelColor=black&color=black">
+</a>
  </p>
   
 ### 👉Graphic Designing
 <p align="left">
   &emsp;
-  	
-  
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
     <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=black"/>
   </a> 
