@@ -94,23 +94,15 @@
 <p align="left">
   &emsp;
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=black"/>
+   <img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=adobeillustrator&logoColor=%23FF9A00&logoSize=auto&label=adobe%20illustrator&labelColor=black&color=black">
   </a> 
   &emsp;
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
-    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=black"/> 
-  </a> 
-    &emsp;
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=black"/>
-  </a>
-   &emsp;
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
-   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&logo=adobepremierepro&logoColor=black"/>
+  <a href="https://www.blender.org/" target="_blank"> 
+   <img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=blender&logoColor=%23E87D0D&logoSize=auto&label=blender&labelColor=black&color=black">
   </a>
     &emsp;
   <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=black"/>
+  	<img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=canva&logoColor=%2300C4CC&logoSize=auto&label=canva&labelColor=black&color=black">
   </a>
  </p>
 
