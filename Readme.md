@@ -80,7 +80,9 @@
 	<a href="https://wordpress.com/">
 <img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=wordpress&logoColor=%2321759B&logoSize=auto&label=wordpress&labelColor=black&color=black">
   </a>
+	
 ### 👉 Backend Development
+
  &emsp;
 <a href="https://nodejs.org/en">
 <img alt="Static Badge" src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&logoSize=auto&label=node.js&labelColor=black&color=black">
